@@ -1,0 +1,16 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "title": "first user"
+        },
+        {
+            "id": 2,
+            "title": "second user"
+        }
+    ],
+    "profile": {
+        "name": "second user",
+        "auth": "Bearer blabla"
+    }
+}
